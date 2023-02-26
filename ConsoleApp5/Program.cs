@@ -52,14 +52,14 @@ namespace ConsoleApp5
             //Console.WriteLine(sum);
             #endregion
 
-            Book info=new Book();
-            info.name = "King Arthur";
-            info.genre = "action ,";
-            info.authorName = "scarlett ,";
-            info.pageCount = 342; 
-            info.price = 29.99;  
+            //Book info=new Book();
+            //info.name = "King Arthur";
+            //info.genre = "action ,";
+            //info.authorName = "scarlett ,";
+            //info.pageCount = 342; 
+            //info.price = 29.99;  
           
-            info.PrintInfo();
+            //info.PrintInfo();
 
 
 
